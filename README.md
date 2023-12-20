@@ -29,7 +29,7 @@
 <br>
 <br>
 
-# <h3>commands to copy and paste:<h3></h3>
+# commands to copy and paste:
 1. git clone "fork_name"
 2. git branch "branch name"
 3. git add .
