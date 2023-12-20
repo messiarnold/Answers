@@ -11,6 +11,8 @@
 5. נכנסים לתיקייה עושים לחצן ימני ואז אפשרויות נוספות ואז OPEN GIT BASH HERE.
 6. אם הצלחתם אמור להיפתח לכם סוג של שורת הפקודה.
 
+<br>
+
 # עכשיו לפקודות:
 1. כדי להעתיק את הפרוייקט ולהתחבר אליו במחשב שלכם: git clone "fork_name"
 2. פתיחת branch חדש:    "תבחרו שם" git branch  (אין מה להבין יותר מדי זה פשוט יוצר בשבילכם מקום שבוא אתם יכולים לשנות דברים)
@@ -21,7 +23,11 @@
 7. לשלב את הbranch שלך: "git merge "branch name(גם כאן אין מה להבין)
 8. לשלוח סופית: git push
 9. תחזור לגיטהאב ותייצר את הבקשה (ללחוץ על CREATE PULL REQUEST) זה כפתור ירוק.
-commands to copy and paste:    
+
+<br>
+<br>
+
+# commands to copy and paste:    
 1. git clone "fork_name"
 2. git branch "branch name"
 3. git add .
